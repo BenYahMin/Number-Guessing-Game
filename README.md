@@ -30,4 +30,4 @@ cd number-guessing-game
 # Run the game
 python number_guessing_game.py
 
-## Working on a Graphics User Interfaced one currently will be dropping soon
+## Now when you fail or win once the game closes am working on it to retsart instead of ending there dropping soon
