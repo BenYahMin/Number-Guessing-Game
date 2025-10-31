@@ -1,4 +1,3 @@
-![My Image](./image.png)
  # Number Guessing Game 🎯
 A Python number guessing game with limited attempts and smart hints
 A simple yet engaging Python number guessing game where the player has limited attempts to guess a randomly generated number.
