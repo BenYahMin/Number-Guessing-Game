@@ -19,6 +19,21 @@ A simple yet engaging Python number guessing game where the player has limited a
 4. You have 8 attempts to guess the correct number
 5. Win by guessing correctly within the limit, or lose by running out of tries!
 
+# Working on these improvements
+
+1.Score tracking, best score
+
+2. Hints, guess history
+
+3. Input Validation
+
+4, Better organization
+
+5. Visual Range Indicator
+
+6.Different celebrations for different performance levels
+7.Better Visual Design 
+
 ## Installation & Usage
 
 ```bash
@@ -30,19 +45,3 @@ cd number-guessing-game
 
 # Run the game
 python number_guessing_game.py
-
-Better Visual Design - Colors, emojis, better layout
-
-# Working on these improvements
-
-Score tracking, best score
-
-1. Hints, guess history
-
-2. Input Validation
-
-3, Better organization
-
-4. Visual Range Indicator
-
-5.Different celebrations for different performance levels
