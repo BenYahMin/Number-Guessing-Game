@@ -32,6 +32,7 @@ A simple yet engaging Python number guessing game where the player has limited a
 5. Visual Range Indicator
 
 6.Different celebrations for different performance levels
+
 7.Better Visual Design 
 
 ## Installation & Usage
