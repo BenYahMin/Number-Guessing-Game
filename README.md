@@ -31,4 +31,18 @@ cd number-guessing-game
 # Run the game
 python number_guessing_game.py
 
-## Now when you fail or win once the game closes am working on it to retsart instead of ending there dropping soon
+Better Visual Design - Colors, emojis, better layout
+
+# Working on these improvements
+
+Score tracking, best score
+
+1. Hints, guess history
+
+2. Input Validation
+
+3, Better organization
+
+4. Visual Range Indicator
+
+5.Different celebrations for different performance levels
